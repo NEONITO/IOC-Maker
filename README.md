@@ -1,4 +1,4 @@
-# NEONITO IOC Conversion Script
+# NEONITO IOC Conversion
 
 This script enhances IOC processing by automating tasks such as defanging IP addresses and URL, accurately identifying hash types, and delivering a succinct summary, even when duplicates are present
 
