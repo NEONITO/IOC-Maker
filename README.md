@@ -20,8 +20,8 @@ Prepare Your IOC Data:
 # Result 
 
 Example IOC Data:
-- **127.0.0.1**
 - **http://example.com**
+- **127.0.0.1**
 - **9a4fda54a2abebe4a90935f3f0b44902606ccb79fadba8349853daac6841e2ad**
 
 IOC Result:
