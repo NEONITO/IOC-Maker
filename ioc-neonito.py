@@ -39,7 +39,7 @@ def process_hashes(file_path):
                 hash_type = identify_hash_type(line)
                 unique_hashes.add((line, hash_type))
 
-    with open('improved-ioc-log.txt', 'w') as output_file:
+    with open('ioc-output.txt', 'w') as output_file:
         if unique_urls:
             output_file.write("Unique URLs:\n")
             for url in unique_urls:
