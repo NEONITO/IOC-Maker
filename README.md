@@ -17,7 +17,7 @@ Prepare Your IOC Data:
 - **Create a text file IOC.txt containing your IOC data, including IP , URL , and hash**
 - **run scirpt python ioc-neonito.py**
 
-#Result 
+# Result 
 
 Example IOC Data:
 - **127.0.0.1**
